@@ -52,4 +52,6 @@ The objective is to identify hiring trends, salary patterns, company distributio
 The dashboard provides insights into job market trends and salary distributions, helping job seekers, students, and professionals make informed career decisions.
 
 
+
+
 chatgpt link:https://chatgpt.com/share/6a2bd352-c508-83e8-b72b-add6646c2c8a
